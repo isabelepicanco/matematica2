@@ -16,3 +16,5 @@ Diretório da disciplinna de Matematemática II -  programação I.
 
   ## 2 Trimetre
   -Unidade 1
+  -Unidade 2
+  -Unidade 3
